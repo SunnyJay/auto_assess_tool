@@ -120,9 +120,12 @@ def get_time_list():
 
 def run_task():
     qrcode_url_list = [
-"链接1",
-"链接2",
-"链接n",
+"http://2i.wo-xa.com/qtoa/share/amt/assessPaper_index.shtml?emp_id=02d48a385f22ea93015f8ed5536a1c36",
+"http://2i.wo-xa.com/qtoa/share/amt/assessPaper_index.shtml?emp_id=02d48a385f22ea93015f8ed685df1c38",
+"http://2i.wo-xa.com/qtoa/share/amt/assessPaper_index.shtml?emp_id=02d48a385f22ea93015f8ed0dcb71c30",
+"http://2i.wo-xa.com/qtoa/share/amt/assessPaper_index.shtml?emp_id=02d48a385f22ea93015f5777db1e0833",
+"http://2i.wo-xa.com/qtoa/share/amt/assessPaper_index.shtml?emp_id=02d48a385f22ea93015f8ed5c8aa1c37",
+"http://2i.wo-xa.com/qtoa/share/amt/assessPaper_index.shtml?emp_id=02d48a385f22ea93015f8ed9b4341c3f"
     ]
 
     # 随机挑选一个进行评价
